@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CAC3673A-F3A2-4594-AAAF-7F1AFC49D36E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "197F07B1-D91E-4623-823A-A7186E49F084"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoryTime/ViewModel/UserViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "signIn(email:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "197F07B1-D91E-4623-823A-A7186E49F084 - 6b2fb4a9921b83a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoryTime.UserViewModel.signIn(email: Swift.String, password: Swift.String) async -&gt; ()"
+                  moduleName = "StoryTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abimurthy/Desktop/342%20/StoryTime/StoryTime/ViewModel/UserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "197F07B1-D91E-4623-823A-A7186E49F084 - e8ae208af34af99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for StoryTime.UserViewModel.signIn(email: Swift.String, password: Swift.String) async -&gt; ()"
+                  moduleName = "StoryTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abimurthy/Desktop/342%20/StoryTime/StoryTime/ViewModel/UserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F73AE170-6272-44D8-A264-CE6DA7F44A36"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoryTime/ViewModel/UserViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "signIn(email:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F73AE170-6272-44D8-A264-CE6DA7F44A36 - e8ae208af34af5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for StoryTime.UserViewModel.signIn(email: Swift.String, password: Swift.String) async -&gt; ()"
+                  moduleName = "StoryTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abimurthy/Desktop/342%20/StoryTime/StoryTime/ViewModel/UserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "F73AE170-6272-44D8-A264-CE6DA7F44A36 - f7b482b6da3dc154"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for StoryTime.UserViewModel.signIn(email: Swift.String, password: Swift.String) async -&gt; ()"
+                  moduleName = "StoryTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abimurthy/Desktop/342%20/StoryTime/StoryTime/ViewModel/UserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "F73AE170-6272-44D8-A264-CE6DA7F44A36 - e12e1ced096deb59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for StoryTime.UserViewModel.signIn(email: Swift.String, password: Swift.String) async -&gt; ()"
+                  moduleName = "StoryTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abimurthy/Desktop/342%20/StoryTime/StoryTime/ViewModel/UserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "F73AE170-6272-44D8-A264-CE6DA7F44A36 - a12385d3b193c164"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for StoryTime.UserViewModel.signIn(email: Swift.String, password: Swift.String) async -&gt; ()"
+                  moduleName = "StoryTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abimurthy/Desktop/342%20/StoryTime/StoryTime/ViewModel/UserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
